@@ -55,4 +55,4 @@ The project includes:
 
 ## Author
 
-Nama Lengkap
+Rizki Dwi Maureza
